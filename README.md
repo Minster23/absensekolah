@@ -15,3 +15,5 @@ di Absensekolah
 di server
 - npm install
 - npm run dev
+
+kedua cara ini digunakan untuk meninstall node_modules
